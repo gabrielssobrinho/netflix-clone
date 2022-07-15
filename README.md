@@ -1,11 +1,10 @@
-## passo a passo para rodar no seu dispositivo
- - baixar o node https://nodejs.org/en/
- - baixar o git https://git-scm.com/
- - clonar este repositorio no seu dispositivo via terminal com o comando `git clone https://github.com/gabrielssobrinho/netflixclone`
- - entre no diretorio do repositorio com o comando `cd netflixclone`
- - execute o comando `npm i`
- - execute o comando `npm start`
- - apos carregar, sera aberto seguinte url no seu browser http://localhost:3000/
- - pronto, aproveite o projeto ;)
+# Netflix Clone
 
+Projeto step by step refazendo o front-end da maior plataforma de streaming de filmes e séries.
 
+## 🛠️ Tecnologias
+
+* Visual Studio Code.
+* Node.
+* Npm (npx create-react-app netflix-clone).
+* API themoviedb.
